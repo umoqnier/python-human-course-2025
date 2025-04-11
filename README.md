@@ -1,10 +1,10 @@
 # Python para humanistas 2025
 
-Este curso está pensado para dctarse a personas cuya formación principal no sean
-ingenierias, matemáticas o informática. En general gente que no venga de
+Este curso está pensado para dictarse a personas cuya formación principal no sean
+ingenierías, matemáticas o informática. En general gente que no venga de
 ciencias "duras".
 
-## Lo básico para escribir programas en `python`
+## Lo mínimo para escribir programas en `python`
 
 ### Fundamentos
 
@@ -55,12 +55,6 @@ ciencias "duras".
     - `for`, `while`
     - `break` y `continue`
 
-### Entrada y salida (*I/O*)
-
-- Entrada por línea de comandos
-- Entrada por teclado
-- Entrada desde archivos
-
 ### Funciones
 
 - Funciones simples
@@ -68,7 +62,30 @@ ciencias "duras".
     - Argumentos
 - Funciones recursivas
 - Funciones `lambda`
+- Modulos de python
 
 ### Programación Orientada a Objetos (POO)
 
+- Fundamentos de POO
+- Clases
+- Instancia de objetos
+- Métodos
+- Herencia
+- Biblioteca estandar de python
+
+### Entrada y salida (*I/O*)
+
+- Entrada por línea de comandos
+- Entrada por teclado
+- Entrada desde archivos
+- Escritura en archivos
+  - Excepciones
+
+## Temas selectos de python
+
+- Procesamiento del Lenguaje Natural
+    - Análisis automático de textos
+    - Modelando de vectores de palabras
+- `pandas` para analizis de datos
+- Visualización de datos con `plotly`
 
