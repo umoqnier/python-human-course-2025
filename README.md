@@ -1,8 +1,8 @@
 # Python para humanistas 2025
 
 Este curso está pensado para dictarse a personas cuya formación principal no sean
-ingenierías, matemáticas o informática. En general gente que no venga de
-ciencias "duras".
+ingenierías, matemáticas o informática. En general gente que venga de
+ciencias sociales, artes y cosas realmente importantes para la sociedad :p
 
 ## Lo mínimo para escribir programas en `python`
 
