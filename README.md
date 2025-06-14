@@ -8,13 +8,15 @@ ciencias sociales, artes y cosas realmente importantes para la sociedad :p
 
 ### Fundamentos
 
+- Introduccón a la programación
+    - Lenguajes de programación
 - Entiendiendo (un poco) las computadoras
   - CPU
   - Memoria Principal
   - Memoria Secundaria
   - I/O
-- Lenguajes de programación
 - ¿Cómo diseñar programas?
+
 
 ### Instalación y entorno de desarrollo
 
@@ -64,6 +66,14 @@ ciencias sociales, artes y cosas realmente importantes para la sociedad :p
 - Funciones `lambda`
 - Modulos de python
 
+### Entrada y salida (*I/O*)
+
+- Entrada por línea de comandos
+- Entrada por teclado
+- Entrada desde archivos
+- Escritura en archivos
+  - Excepciones
+
 ### Programación Orientada a Objetos (POO)
 
 - Fundamentos de POO
@@ -72,14 +82,6 @@ ciencias sociales, artes y cosas realmente importantes para la sociedad :p
 - Métodos
 - Herencia
 - Biblioteca estandar de python
-
-### Entrada y salida (*I/O*)
-
-- Entrada por línea de comandos
-- Entrada por teclado
-- Entrada desde archivos
-- Escritura en archivos
-  - Excepciones
 
 ## Temas selectos de python
 
